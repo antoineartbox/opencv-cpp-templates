@@ -1,0 +1,5 @@
+use_cache "/Users/antoine/dev/opencv/opencv-3.4.0/.cache"
+do_unpack "ippicv_2017u3_mac_intel64_general_20170822.tgz" "c1ebb5dfa5b7f54b0c44e1917805a463" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/dfe3162c237af211e98b8960018b564bc209261d/ippicv/ippicv_2017u3_mac_intel64_general_20170822.tgz" "/Users/antoine/dev/opencv/opencv-3.4.0/build/3rdparty/ippicv"
+#check_md5 "/Users/antoine/dev/opencv/opencv-3.4.0/.cache/ippicv/c1ebb5dfa5b7f54b0c44e1917805a463-ippicv_2017u3_mac_intel64_general_20170822.tgz"
+#mkdir "/Users/antoine/dev/opencv/opencv-3.4.0/build/3rdparty/ippicv"
+#unpack "/Users/antoine/dev/opencv/opencv-3.4.0/build/3rdparty/ippicv" "/Users/antoine/dev/opencv/opencv-3.4.0/.cache/ippicv/c1ebb5dfa5b7f54b0c44e1917805a463-ippicv_2017u3_mac_intel64_general_20170822.tgz"
